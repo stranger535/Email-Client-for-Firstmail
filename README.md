@@ -10,3 +10,6 @@
 <img width="543" height="555" alt="image" src="https://github.com/user-attachments/assets/644f032f-3294-4916-ba4a-bff4cdfb168c" />
 
 
+P/s Работает шустрее чем через IMAP!
+
+
