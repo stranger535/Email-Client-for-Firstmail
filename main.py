@@ -12,7 +12,7 @@ from PyQt6.QtWidgets import (
 )
 from PyQt6.QtGui import QClipboard
 
-API_KEY = ""
+API_KEY = "YOUR API KEY"
 
 def setup_logging():
     logging.basicConfig(
@@ -323,4 +323,5 @@ def main():
     sys.exit(app.exec())
 
 if __name__ == "__main__":
+
     main()
