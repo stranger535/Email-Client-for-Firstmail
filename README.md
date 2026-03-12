@@ -13,3 +13,9 @@
 P/s Работает шустрее чем через IMAP!
 
 
+# Установка:
+pip install -r requirements.txt
+
+# Запуск:
+
+python main.py
